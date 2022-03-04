@@ -16,4 +16,8 @@ A web application that takes a ``user's birthday``, calculates the ``day of the 
  
  > ``Open the index.html on your favorite browser``
 
- 
+ ## Technologies used.
+  * Html5
+  * Javascript
+  * Bootstrap
+  * Markdown
