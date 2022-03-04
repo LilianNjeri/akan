@@ -21,3 +21,6 @@ A web application that takes a ``user's birthday``, calculates the ``day of the 
   * Javascript
   * Bootstrap
   * Markdown
+
+## License
+> MIT License &copy 2022 Lilian Njeri
