@@ -19,4 +19,9 @@ function akanNames() {
     const d = new Date(birthDay);
     let day = d.getDay();
     let year = d.getFullYear();
+
+    // assigns value to the day and gender 
+    var dayOfTheWeek = akanArray[day][0];
+    var genderMale = akanArray[day][1];
+    var genderFemale = akanArray[day][2];
 }
