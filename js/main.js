@@ -24,4 +24,12 @@ function akanNames() {
     var dayOfTheWeek = akanArray[day][0];
     var genderMale = akanArray[day][1];
     var genderFemale = akanArray[day][2];
+
+    // added logical operators for gender
+    if (gender == '') {
+        alert('Please input your gender');
+    } else if (year >= 2022) {
+        alert('Too young! please put the correct year')
+    } 
+    
 }
