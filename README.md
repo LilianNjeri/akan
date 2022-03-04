@@ -7,6 +7,9 @@ A web application that takes a ``user's birthday``, calculates the ``day of the 
 ## Author.
  > Lilian Njeri
 
+## Screenshot
+<img src="https://raw.githubusercontent.com/LilianNjeri/akan/master/images/akan.png" width="800px" height="400px">
+
  ## Setup.
  > ``git clone https://github.com/LilianNjeri/akan.git `
  
