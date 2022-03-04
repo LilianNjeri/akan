@@ -1,3 +1,9 @@
+// Function to reset the form
+function formReset() {
+    document.getElementById('form_data').reset();
+}
+
+
 // main function
 function akanNames() {
     // user generated input
@@ -35,8 +41,8 @@ function akanNames() {
     } else if (gender == 'female') {
         document.getElementById('message') .innerHTML = 'You were born on a ' + dayOfTheWeek + ' and your akan name is ' + genderFemale
     }
-    
-    
 
+    // Reset function
+    formReset()   
 
 }
