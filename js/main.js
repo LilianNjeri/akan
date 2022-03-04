@@ -30,6 +30,13 @@ function akanNames() {
         alert('Please input your gender');
     } else if (year >= 2022) {
         alert('Too young! please put the correct year')
-    } 
+    } else if (gender == 'male') {
+        document.getElementById('message').innerHTML = 'You were born on a ' + dayOfTheWeek + ' and your akan name is ' + genderMale
+    } else if (gender == 'female') {
+        document.getElementById('message') .innerHTML = 'You were born on a ' + dayOfTheWeek + ' and your akan name is ' + genderFemale
+    }
     
+    
+
+
 }
