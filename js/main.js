@@ -14,4 +14,9 @@ function akanNames() {
         ['Friday', 'Kofi' ,'Afua'],
         ['Saturday', 'Kwame', 'Ama'],
     ];
+   
+    // format date to derive the day of the week 
+    const d = new Date(birthDay);
+    let day = d.getDay();
+    let year = d.getFullYear();
 }
