@@ -1,4 +1,4 @@
-# Akan-Names
+# Akan Culture Naming System
 [Check it out](https://liliannjeri.github.io/akan/)
 
 ## Description.
