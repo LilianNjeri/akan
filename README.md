@@ -6,3 +6,14 @@ A web application that takes a ``user's birthday``, calculates the ``day of the 
 
 ## Author.
  > Lilian Njeri
+
+ ## Setup.
+ > ``git clone https://github.com/LilianNjeri/akan.git `
+ 
+ ``extract the file``
+ 
+ ``cd to the akan directory``
+ 
+ > ``Open the index.html on your favorite browser``
+
+ 
